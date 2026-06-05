@@ -22,8 +22,8 @@ bash restore.sh
 cat ~/backup.log
 
 ## Screenshots
-![](screenshots/1.jpeg)
-![](screenshots/2.jpeg)
-![](screenshots/3.jpeg)
-![](screenshots/4.jpeg)
-![](screenshots/5.jpeg)
+![](1.jpeg)
+![](2.jpeg)
+![](3.jpeg)
+![](4.jpeg)
+![](5.jpeg)
