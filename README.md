@@ -20,3 +20,10 @@ GCP · Cloud Storage · gcloud CLI · Bash · Cron · Ubuntu · Git
 bash backup.sh
 bash restore.sh
 cat ~/backup.log
+
+## Screenshots
+![](screenshots/1.jpeg)
+![](screenshots/2.jpeg)
+![](screenshots/3.jpeg)
+![](screenshots/4.jpeg)
+![](screenshots/5.jpeg)
